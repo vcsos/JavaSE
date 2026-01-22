@@ -1,4 +1,4 @@
-package com.vcsos.privates.g_static;
+package com.vcsos.staticLearn.a_static;
 
 public class test01 {
     public static void main(String[] args) {

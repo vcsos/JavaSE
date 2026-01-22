@@ -1,4 +1,4 @@
-package com.vcsos.privates.g_static;
+package com.vcsos.staticLearn.a_static;
 
 public class Animal {
     //static是一个静态关键字
