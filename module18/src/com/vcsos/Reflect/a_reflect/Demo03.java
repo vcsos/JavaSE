@@ -1,5 +1,7 @@
 package com.vcsos.Reflect.a_reflect;
 
+import lombok.Data;
+
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
@@ -27,7 +29,7 @@ public class Demo03 {
 
     }
 }
-
+@Data
 class Emp{
     public String account;
     public String password;
