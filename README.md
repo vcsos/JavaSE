@@ -9,21 +9,37 @@ This repository tracks my full journey learning **Java Standard Edition (Java SE
 ## 📁 仓库结构 / Repository Structure
 vcsos/
 ├── .idea/                  # IntelliJ IDEA 项目配置
+
 ├── javase.iml              # IntelliJ 模块文件
+
 ├── module1 ~ module7       # Java 基础（数据类型、运算符、流程控制、数组等）
+
 ├── module8                 # 模块九：static 关键字
+
 ├── module9                 # 模块十：继承
+
 ├── module10                # 继承（续）& 模块十一：接口（部分）
+
 ├── module11                # 接口 & 模块十二：内部类（部分）
+
 ├── module12                # 内部类 & 模块十三：异常（部分）
+
 ├── module13                # 模块十四：String 类
+
 ├── module14                # 模块十四：String（补充内容）
+
 ├── module15                # 模块十五：集合框架
+
 ├── module16                # 模块十六：IO 流 & 模块十七：线程
+
 ├── module17                # 线程 & 模块十八：反射
+
 ├── module18                # 线程与反射（续）
+
 ├── module19                # LeetCode 热题 100：015，011
+
 ├── module20                # LeetCode 练习
+
 ├── StudnetManage/          # 学生管理系统（综合运用继承、接口等 OOP 知识）
 
 └── LeetCode/               # LeetCode 题解文件夹
